@@ -1,9 +1,7 @@
 # package_name
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Description.
+The package package_name is used to: - test publication -
 
 ## Installation
 
@@ -21,7 +19,9 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+
+Raila
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
